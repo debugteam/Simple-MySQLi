@@ -1,5 +1,5 @@
 {
-  "name": "websitebeaver/simple-mysqli",
+  "name": "debugteam/simple-mysqli",
   "description": "Wrapper class for MySQLi prepared statements",
 	"keywords": ["MySQLi", "MySQL", "prepared", "database"],
   "license": "MIT",
